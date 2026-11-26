@@ -1,0 +1,22 @@
+[
+  {"id":"seed_salary","categoryId":"salary","amountCents":245000,"type":"INCOME","dateMillis":1761955200000,"note":"Monthly salary"},
+  {"id":"seed_freelance","categoryId":"salary","amountCents":38000,"type":"INCOME","dateMillis":1760572800000,"note":"Freelance project"},
+  {"id":"seed_food_01","categoryId":"food","amountCents":4280,"type":"EXPENSE","dateMillis":1762041600000,"note":"Weekly groceries"},
+  {"id":"seed_food_02","categoryId":"food","amountCents":1850,"type":"EXPENSE","dateMillis":1761782400000,"note":"Lunch with colleagues"},
+  {"id":"seed_food_03","categoryId":"food","amountCents":970,"type":"EXPENSE","dateMillis":1761523200000,"note":"Coffee and pastry"},
+  {"id":"seed_food_04","categoryId":"food","amountCents":3190,"type":"EXPENSE","dateMillis":1761177600000,"note":"Supermarket"},
+  {"id":"seed_transport_01","categoryId":"transport","amountCents":650,"type":"EXPENSE","dateMillis":1761955200000,"note":"Metro pass"},
+  {"id":"seed_transport_02","categoryId":"transport","amountCents":1240,"type":"EXPENSE","dateMillis":1761436800000,"note":"Train ticket"},
+  {"id":"seed_transport_03","categoryId":"transport","amountCents":2200,"type":"EXPENSE","dateMillis":1760832000000,"note":"Fuel"},
+  {"id":"seed_transport_04","categoryId":"transport","amountCents":480,"type":"EXPENSE","dateMillis":1760486400000,"note":"Taxi"},
+  {"id":"seed_leisure_01","categoryId":"leisure","amountCents":1800,"type":"EXPENSE","dateMillis":1761868800000,"note":"Cinema"},
+  {"id":"seed_leisure_02","categoryId":"leisure","amountCents":1299,"type":"EXPENSE","dateMillis":1761350400000,"note":"Music subscription"},
+  {"id":"seed_leisure_03","categoryId":"leisure","amountCents":3500,"type":"EXPENSE","dateMillis":1760918400000,"note":"Concert tickets"},
+  {"id":"seed_leisure_04","categoryId":"leisure","amountCents":899,"type":"EXPENSE","dateMillis":1760313600000,"note":"Streaming service"},
+  {"id":"seed_food_05","categoryId":"food","amountCents":6500,"type":"EXPENSE","dateMillis":1759968000000,"note":"Dinner with friends"},
+  {"id":"seed_food_06","categoryId":"food","amountCents":2360,"type":"EXPENSE","dateMillis":1759622400000,"note":"Market"},
+  {"id":"seed_transport_05","categoryId":"transport","amountCents":990,"type":"EXPENSE","dateMillis":1759276800000,"note":"Bike repair"},
+  {"id":"seed_leisure_05","categoryId":"leisure","amountCents":1500,"type":"EXPENSE","dateMillis":1758931200000,"note":"Museum"},
+  {"id":"seed_food_07","categoryId":"food","amountCents":1120,"type":"EXPENSE","dateMillis":1758585600000,"note":"Bakery"},
+  {"id":"seed_transport_06","categoryId":"transport","amountCents":735,"type":"EXPENSE","dateMillis":1758240000000,"note":"Bus card"}
+]
